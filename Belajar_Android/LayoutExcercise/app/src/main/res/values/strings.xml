@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LayoutExcercise</string>
+    <string name="title">Star Wars \n Rise of Skywalker</string>
+    <string name="genre">Space Fantasy</string>
+    <string name="desc">Star Wars (bahasa Indonesia: Perang Bintang) adalah sebuah seri film epik, fiksi ilmiah, opera antariksa Amerika Serikat yang disutradarai oleh George Lucas. Semenjak dirilisnya serial ini, film ini telah menjadi sebuah fenomena budaya dan menghasilkan banyak produksi film, buku, permainan video, serial televisi, dan banyak produk lainnya yang dipasarkan. </string>
+    <string name="cast">Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Andy Serkis, Lupit</string>
+    <string name="budg">412 million USD</string>
+    <string name="dist">Walt Disney Studios Motion Pictures</string>
+    <string name="base">Lucasfilm Ltd.</string>
+<!--    <string name="direc">Rian Johnson</string>-->
+<!--    <string name="direc">Rian Johnson</string>-->
+<!--    <string name="direc">Rian Johnson</string>-->
+
+</resources>
